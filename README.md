@@ -1,5 +1,5 @@
 # Repository for storing solutions and tests to leetcode / Codeforces problems
 
 ## TODO:
-## - implement automated testing
-## - create c++ subdirectory
+ - implement automated testing
+ - create c++ subdirectory
